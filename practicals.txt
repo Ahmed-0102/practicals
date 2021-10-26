@@ -5,3 +5,6 @@ Second version of file (v2)
 Third version of file (v3)
 
 Sixth version of file (v6)
+
+Seventh version of file (v7)
+
